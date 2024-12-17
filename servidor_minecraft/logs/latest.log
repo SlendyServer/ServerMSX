@@ -1,45 +1,55 @@
-[20:36:04] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[20:36:04] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-15-master@bb76819 (2024-12-15T09:48:21Z) for Minecraft 1.21.4
-[20:36:04] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[20:36:05] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
-[20:36:09] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:36:11] [ServerMain/INFO]: Loaded 1370 recipes
-[20:36:11] [ServerMain/INFO]: Loaded 1481 advancements
-[20:36:11] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[20:36:11] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 236.4ms
-[20:36:11] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[20:36:11] [Server thread/INFO]: Loading properties
-[20:36:11] [Server thread/INFO]: This server is running Paper version 1.21.4-15-master@bb76819 (2024-12-15T09:48:21Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
-[20:36:12] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[20:36:12] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[20:36:12] [Server thread/INFO]: Using 4 threads for Netty based IO
-[20:36:13] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[20:36:13] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[20:36:13] [Server thread/INFO]: Default game type: SURVIVAL
-[20:36:13] [Server thread/INFO]: Generating keypair
-[20:36:13] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:36:13] [Server thread/INFO]: Using epoll channel type
-[20:36:13] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[20:36:13] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[20:36:13] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[20:36:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:36:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:36:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:36:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:36:13] [Server thread/INFO]: Preparing level "world"
-[20:36:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:36:14] [Server thread/INFO]: Preparing spawn area: 0%
-[20:36:14] [Server thread/INFO]: Preparing spawn area: 0%
-[20:36:15] [Server thread/INFO]: Preparing spawn area: 10%
-[20:36:15] [Server thread/INFO]: Time elapsed: 1212 ms
-[20:36:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[20:36:15] [Server thread/INFO]: Preparing spawn area: 0%
-[20:36:15] [Server thread/INFO]: Time elapsed: 229 ms
-[20:36:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[20:36:15] [Server thread/INFO]: Preparing spawn area: 0%
-[20:36:15] [Server thread/INFO]: Time elapsed: 128 ms
-[20:36:16] [Server thread/INFO]: [spark] Starting background profiler...
-[20:36:16] [Server thread/INFO]: Done preparing level "world" (2.795s)
-[20:36:16] [Server thread/INFO]: Running delayed init tasks
-[20:36:16] [Server thread/INFO]: Done (12.413s)! For help, type "help"
-[20:38:10] [Server thread/INFO]: Made slendy3021 a server operator
+[02:31:46] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[02:31:46] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-15-master@bb76819 (2024-12-15T09:48:21Z) for Minecraft 1.21.4
+[02:31:46] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[02:31:47] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[02:31:51] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:31:53] [ServerMain/INFO]: Loaded 1370 recipes
+[02:31:53] [ServerMain/INFO]: Loaded 1481 advancements
+[02:31:53] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[02:31:53] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 205.6ms
+[02:31:53] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[02:31:53] [Server thread/INFO]: Loading properties
+[02:31:53] [Server thread/INFO]: This server is running Paper version 1.21.4-15-master@bb76819 (2024-12-15T09:48:21Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
+[02:31:54] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[02:31:54] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:31:54] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:31:55] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[02:31:55] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[02:31:55] [Server thread/INFO]: Default game type: SURVIVAL
+[02:31:55] [Server thread/INFO]: Generating keypair
+[02:31:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:31:55] [Server thread/INFO]: Using epoll channel type
+[02:31:55] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[02:31:55] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[02:31:55] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:31:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:31:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:31:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:31:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:31:55] [Server thread/INFO]: Preparing level "world"
+[02:31:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:31:56] [Server thread/INFO]: Preparing spawn area: 0%
+[02:31:56] [Server thread/INFO]: Preparing spawn area: 2%
+[02:31:57] [Server thread/INFO]: Preparing spawn area: 12%
+[02:31:57] [Server thread/INFO]: Time elapsed: 1035 ms
+[02:31:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:31:57] [Server thread/INFO]: Preparing spawn area: 0%
+[02:31:57] [Server thread/INFO]: Time elapsed: 256 ms
+[02:31:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:31:57] [Server thread/INFO]: Preparing spawn area: 0%
+[02:31:57] [Server thread/INFO]: Time elapsed: 157 ms
+[02:31:57] [Server thread/INFO]: [spark] Starting background profiler...
+[02:31:58] [Server thread/INFO]: Done preparing level "world" (2.373s)
+[02:31:58] [Server thread/INFO]: Running delayed init tasks
+[02:31:58] [Server thread/INFO]: Done (12.187s)! For help, type "help"
+[02:32:14] [User Authenticator #0/INFO]: UUID of player FallZeus131 is 7ac260d0-5e47-38d8-82ae-cfbae9aeaa55
+[02:32:16] [Server thread/INFO]: FallZeus131 joined the game
+[02:32:16] [Server thread/INFO]: FallZeus131[/127.6.92.244:53807] logged in with entity id 34 at ([world]31.5, 74.0, -22.5)
+[02:33:10] [Server thread/INFO]: FallZeus131 has made the advancement [Stone Age]
+[02:34:45] [Server thread/INFO]: FallZeus131 lost connection: Disconnected
+[02:34:45] [Server thread/INFO]: FallZeus131 left the game
+[02:34:55] [User Authenticator #1/INFO]: UUID of player FallZeus131 is 7ac260d0-5e47-38d8-82ae-cfbae9aeaa55
+[02:34:57] [Server thread/INFO]: FallZeus131 joined the game
+[02:34:57] [Server thread/INFO]: FallZeus131[/127.6.92.244:45197] logged in with entity id 750 at ([world]50.350733468171775, 78.0, -11.719375271310204)
+[02:35:17] [Server thread/INFO]: FallZeus131 lost connection: Disconnected
+[02:35:17] [Server thread/INFO]: FallZeus131 left the game
